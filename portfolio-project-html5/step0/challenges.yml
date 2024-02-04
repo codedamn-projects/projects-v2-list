@@ -1,0 +1,3 @@
+challenges:
+  - text: You should have a folder named public.
+  - text: public folder should consist work-tab.html and contact-tab.html.

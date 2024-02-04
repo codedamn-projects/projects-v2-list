@@ -1,0 +1,5 @@
+challenges:
+  - text: "Creating the navbar for the page containing the highscores and time at the either end."
+  - text: "Create the main section of the page that will contain the heading, description and the 'Start Quiz' button"
+  - text: "Style the navbar with the background color: #218380 and the 'start quiz' button "
+  - text: "Add required styles to meet the Desktop Design"

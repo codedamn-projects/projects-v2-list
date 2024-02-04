@@ -1,0 +1,5 @@
+challenges:
+  - text: create regex pattern for headings (h1 & h2)
+  - text: create regex pattern for basic text formatting (bold,italics & highlight)
+  - text: create regex pattern for hyperlinks
+  - text: create regex pattern for lists

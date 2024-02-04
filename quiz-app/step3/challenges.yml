@@ -1,0 +1,6 @@
+challenges:
+    - text: Create a basic DOM elements for the leaderboard section
+    - text: Create a function to save the new score generated to the local Storage
+    - text: Fetch the details from the local storage after appending the new details and display all the scores to the user.
+    - text: Sort the scores in descending order and display them to the user
+    - text: Add a button to reset the quiz and take the user to the landing page of the quiz

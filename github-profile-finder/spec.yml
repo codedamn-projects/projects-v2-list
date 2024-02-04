@@ -1,0 +1,31 @@
+name: GitHub Profile Finder
+tags:
+  - React
+  - Redux
+starter-files: https://github.com/sagar-7227/GitHub-Profile-Finder-Template.git
+type: fullstack
+level: medium
+short-description: Build a custom github profile finder using github username.
+  It shows users details with his/her repository.
+long-description:
+  text: |
+    Your challenge is to build out the Github Profile Finder App and get it
+    looking as close to the design as possible.
+
+
+    This project focuses on your React and understanding of Redux. So if you've got something you'd like to practice, feel free to give it a go.
+
+
+    Your users should be able to
+
+
+    - View the github repository and profile using github username.
+
+
+    - Download the starter code and go through the README.md file.
+
+
+    The `README.md` file will provide further details about the project.
+
+
+    Don't forget to share your submissions with the community to get feedback. All the best.

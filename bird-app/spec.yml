@@ -1,0 +1,33 @@
+name: Bird App Social Media
+tags:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+starter-files: https://github.com/codedamn-projects/bird-app
+type: frontend
+level: hard
+short-description: A working social media app like twitter based on
+  localStorage, React and JavaScript.
+long-description:
+  text: |
+    In this project, you're supposed to build a fully functional basic social
+    media website. This includes the following features:
+
+
+    - Login
+
+    - Registration
+
+    - Creating a post
+
+    - Editing a post
+
+    - Updating a post
+
+    - Deleting a post
+
+    - A feed with random posts from all registered users
+
+
+    A detailed breakdown is available in the README.md file once you start the project. All the best!

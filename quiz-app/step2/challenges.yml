@@ -1,0 +1,3 @@
+challenges:
+    - text: Create a function using setTimeout to create a countdown timer for calculating the quiz points
+    - text: Verify the correctness of the option and decrement the score if wrong option is chosen

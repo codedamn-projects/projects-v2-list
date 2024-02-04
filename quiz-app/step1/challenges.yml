@@ -1,0 +1,6 @@
+challenges:
+    - text: Create the DOM structure for the quiz layout (Quiz Question + options)
+    - text: Change the quiz questions on selecting an option for the current question
+    - text: Create the DOM structure for the quiz completed layout (when the user clicks on the last option)
+    - text: Make the style page look good, add appropriate colors, fonts, etc. to meet the design shared
+    - text: create an element for displaying the answer value (Incorrect / Correct)

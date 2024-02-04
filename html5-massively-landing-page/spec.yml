@@ -1,0 +1,30 @@
+name: HTML5 Massively Landing Page
+tags:
+  - HTML
+  - CSS
+starter-files: https://github.com/codedamn-projects/html5-massively-landing-page
+type: frontend
+level: easy
+short-description: This project will be a perfect test of your layout and
+  responsive skills. The major focus is HTML and CSS for this project
+long-description:
+  images:
+    - label: "Hero Section [Desktop]"
+      url: "https://raw.githubusercontent.com/codedamn-projects/html5-massively-landing-page/master/designs/Preview%20Image.jpg"
+    - label: "Mobile Menu"
+      url: "https://raw.githubusercontent.com/codedamn-projects/html5-massively-landing-page/master/designs/Menu%20%5BMobile%5D.jpg"
+
+  text: |
+    Your task is to build out this landing page and get it looking as close to
+    the design as possible. This project focuses mostly on HTML, CSS and layouts with CSS.
+
+    You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
+
+    Your users should be able to:
+
+    - View the optimal layout for the site depending on their device's screen size
+    - See hover states for all interactive elements on the page
+    - See the responsive menu on smaller screens
+
+    Don't forget to share your submissions with the community to get feedback. All
+    the best.

@@ -1,0 +1,4 @@
+challenges:
+  - text: Create a bottom panel with default hidden state
+  - text: Toggle bottom panel using toggle button
+  - text: Show additional data in bottom panel

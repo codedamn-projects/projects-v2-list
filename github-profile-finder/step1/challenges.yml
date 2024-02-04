@@ -1,0 +1,6 @@
+challenges:
+  - text: Add createSlice and createAsyncThunk from @reduxjs/toolkit
+  - text: Fetch Repos using Github api
+  - text: Fetch Profiles using Github api
+  - text: Creating reducers for repos and profile for different stage which include
+      pending,fulfilled,rejected

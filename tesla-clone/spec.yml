@@ -1,0 +1,37 @@
+name: Tesla Clone (React)
+tags:
+  - JavaScript
+  - React
+  - Tailwind CSS
+starter-files: https://github.com/codedamn-projects/tesla-clone
+type: frontend
+level: easy
+short-description: Build the tesla clone website with smooth transitions and scroll snaps
+long-description:
+  images:
+    - label: "Desktop Preview"
+      url: "https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Landing%20Page%20%5BDesktop%5D.png"
+    - label: "Mobile Preview"
+      url: "https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Landing%20Page%20%5BMobile%5D.png"
+    - label: "Model S - Preview"
+      url: "https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/MODEL%20S%20%5BDESKTOP%5D.png"
+    - label: "Mobile Menu"
+      url: "https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Menu%20%5BMobile%5D.png"
+    - label: "Solar Roof - Preview"
+      url: "https://raw.githubusercontent.com/codedamn-projects/tesla-clone/master/designs/Solar%20Roof%20%5BDESKTOP%5D.png"
+
+  text: |
+    Your challenge is to build out this landing page and get it looking as close
+    to the design as possible.
+
+    This project focuses mostly on React, JavaScript and your UI skills.
+
+    You can use any tools you like to help you complete this project. So if you've
+    got something you'd like to practice, feel free to give it a go.
+
+    Your users should be able to:
+    - View the optimal layout for the site depending on their device's screen size.
+    - See hover states for all interactive elements on the page.
+
+    Don't forget to share your submissions with the community to get feedback. All
+    the best.

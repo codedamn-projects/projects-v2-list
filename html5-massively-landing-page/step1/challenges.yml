@@ -1,0 +1,6 @@
+challenges:
+  - text: Align header content to center
+  - text: Space between containers in the nav bar
+  - text: Adding margin and padding for the header blog
+  - text: Making the blog posts section a grid container
+  - text: Make the footer section a grid container.
