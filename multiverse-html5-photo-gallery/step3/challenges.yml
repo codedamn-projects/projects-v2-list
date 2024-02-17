@@ -1,9 +1,0 @@
-challenges:
-  - text: Make the `#gallery-container` element a `flex` container. Set `flex-wrap`
-      property to `wrap`
-  - text: Ensure that the image is displayed with the correct size in different
-      resolutions. Set the `object-fit` property to `cover`
-  - text: Set position of `.img-container` to `relative`
-  - text: Set the `flex` shorthand of `.img-container` to `1 1 100%`
-  - text: Set the color of the `.title` to `white` and `position` to `absolute`
-  - text: Add the media queries to show multiple images across larger viewports
